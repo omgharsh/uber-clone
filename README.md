@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-## start cloning
+## start the cloning
 
 This project is a starting point for a Flutter application.
 
