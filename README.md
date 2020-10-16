@@ -1,6 +1,7 @@
 # uber_clone 
 
 A new Flutter app.
+It can be used to clone uber.
 
 ## start the cloning
 
