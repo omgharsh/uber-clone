@@ -18,3 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
 //It is a type of new app.
+//app code
